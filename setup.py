@@ -1,5 +1,5 @@
 from setuptools import setup
-from passhole import version
+from xmlnative import version
 import shutil
 import os
 
